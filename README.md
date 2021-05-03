@@ -12,4 +12,5 @@
 -__Membrana olfactoria:__ La funció dels cilis olfactoris és reaccionar davant els odorants de l'aire que entra a les fosses nasals i posteriorment estimular les cèl·lules olfactives.
 
 -__Nervi olfactiu:__ transmeten informació de l'olfacte per mitjà de la placa cribiforme cap als bulbs i fascicles olfactoris que, al seu torn, transmeten aquesta informació a l'escorça olfactiva en els lòbuls temporals medials.
-a
+
+## Per què quan alguna cosa té una olor molt forta o ens és familiar podem notar gust?
