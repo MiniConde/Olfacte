@@ -1,4 +1,4 @@
-# L'OLOFACTE
+# L'OLFACTE
 ![hola?](olfacte1.png)
 ## Per què serveix l'olfacte?
 (pq serveix l'lfacte)
