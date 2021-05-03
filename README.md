@@ -16,12 +16,12 @@
 ## Per què quan alguna cosa té una olor molt forta o ens és familiar podem notar gust?
 (el pq)
 ## Malelties de l'olfacte, a què són degudes?
-__Anosmia: És la pèrdua de l'olfacte. De vegades és congènita (present des del moment del naixement) i pot ser degut a un trastorn d'origen genètic.
+__Anosmia:__ És la pèrdua de l'olfacte. De vegades és congènita (present des del moment del naixement) i pot ser degut a un trastorn d'origen genètic.
 
-__Hipoòsmia. És una reducció en la capacitat per detectar olors.
+__Hipoòsmia.__ És una reducció en la capacitat per detectar olors.
 
-__Parosmia. És un canvi en la percepció normal de les olors, per exemple, quan es distorsiona l'olor d'alguna cosa familiar, o quan alguna cosa que normalment et agradava de sobte es torna desagradable.
+__Parosmia.__ És un canvi en la percepció normal de les olors, per exemple, quan es distorsiona l'olor d'alguna cosa familiar, o quan alguna cosa que normalment et agradava de sobte es torna desagradable.
 
-__Fantosmia. És la sensació de percebre una olor que en realitat no està present
+__Fantosmia.__ És la sensació de percebre una olor que en realitat no està present
 
 També hi ha el Covid-19 que fa que el gust i l’olfacte es perdin. Depèn de la persona que l’agafi, pot no tenir aquests síntomes o no i fins i tot poden durar més que el temps que es té el virus.
