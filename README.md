@@ -4,8 +4,9 @@
 ## Per què serveix l'olfacte?
 (pq serveix l'lfacte)
 
-[Anatomia del sentit de l'olfacte](http://google.com)
 ## Anatomia del sentit de l'olfacte
+[Anatomia del sentit de l'olfacte](http://google.com)
+
 ![cabra](olfacte2.png)
 
 -__Cavitat nasal:__ Espai dins del nas. La cavitat nasal està damunt de l'os que forma el paladar i es corba cap avall i enrere fins a unir-se amb la gola.
@@ -16,14 +17,15 @@
 
 -__Nervi olfactiu:__ transmeten informació de l'olfacte per mitjà de la placa cribiforme cap als bulbs i fascicles olfactoris que, al seu torn, transmeten aquesta informació a l'escorça olfactiva en els lòbuls temporals medials.
 
-[Per què quan alguna cosa té una olor molt forta o ens és familiar podem notar gust?](http://google.com)
-
 ## Per què quan alguna cosa té una olor molt forta o ens és familiar podem notar gust?
 (el pq)
 
-[Malelties de l'olfacte, a què són degudes?](http://google.com)
+[Per què quan alguna cosa té una olor molt forta o ens és familiar podem notar gust?](http://google.com)
 
 ## Malelties de l'olfacte, a què són degudes?
+
+[Malelties de l'olfacte, a què són degudes?](http://google.com)
+
 __Anosmia:__ És la pèrdua de l'olfacte. De vegades és congènita (present des del moment del naixement) i pot ser degut a un trastorn d'origen genètic.
 
 __Hipoòsmia.__ És una reducció en la capacitat per detectar olors.
