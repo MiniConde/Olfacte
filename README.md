@@ -1,5 +1,6 @@
 # L'OLFACTE
 ![hola?](olfacte1.png)
+#[Per què serveix l'olfacte?](http://google.com)
 ## Per què serveix l'olfacte?
 (pq serveix l'lfacte)
 ## Anatomia del sentit de l'olfacte
