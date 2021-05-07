@@ -24,4 +24,5 @@ __Parosmia.__ És un canvi en la percepció normal de les olors, per exemple, qu
 
 __Fantosmia.__ És la sensació de percebre una olor que en realitat no està present
 
-També hi ha el Covid-19 que fa que el gust i l’olfacte es perdin. Depèn de la persona que l’agafi, pot no tenir aquests síntomes o no i fins i tot poden durar més que el temps que es té el virus.
+També hi ha el Covid-19 que fa que el gust i l’olfacte es perdin. Depèn de la persona que l’agafi, pot no tenir aquests síntomes o no i fins i tot poden durar més que el temps que es té.
+(#some-markdown-heading)
