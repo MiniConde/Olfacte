@@ -1,10 +1,14 @@
 # L'OLFACTE
 ![hola?](olfacte1.png)
-[Per què serveix l'olfacte?](http://google.com)
+
 ## Per què serveix l'olfacte?
+
+[Per què serveix l'olfacte?](http://google.com)
+
 (pq serveix l'lfacte)
 
 ## Anatomia del sentit de l'olfacte
+
 [Anatomia del sentit de l'olfacte](http://google.com)
 
 ![cabra](olfacte2.png)
