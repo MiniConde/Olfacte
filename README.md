@@ -9,7 +9,7 @@
 
 ## Anatomia del sentit de l'olfacte
 
-[Anatomia del sentit de l'olfacte](http://google.com)
+[Anatomia del sentit de l'olfacte](https://github.com/MiniConde/pq-serveix-olfacte/tree/main)
 
 ![cabra](olfacte2.png)
 
