@@ -3,7 +3,7 @@
 
 ## Per què serveix l'olfacte?
 
-[Per què serveix l'olfacte?](http://google.com)
+[Per què serveix l'olfacte?](https://github.com/MiniConde/pq-serveix-olfacte/tree/main)
 
 (pq serveix l'lfacte)
 
