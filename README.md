@@ -22,7 +22,7 @@ El sentit de l'olfacte és el sentit encarregat de detectar i processar les olor
 -__Nervi olfactiu:__ transmeten informació de l'olfacte per mitjà de la placa cribiforme cap als bulbs i fascicles olfactoris que, al seu torn, transmeten aquesta informació a l'escorça olfactiva en els lòbuls temporals medials.
 
 ## Per què quan alguna cosa té una olor molt forta o ens és familiar podem notar gust?
-(el pq)
+És degut a  un actereflexe de la secració gàstrica, és a dir, es prepara per digerir els aliments. Bàsicament el nostre cos es prepara per menjar gràcies a l’olfacte 
 
 [Per què quan alguna cosa té una olor molt forta o ens és familiar podem notar gust?](http://google.com)
 
