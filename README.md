@@ -5,7 +5,9 @@
 
 [Per què serveix l'olfacte?](https://github.com/MiniConde/pq-serveix-olfacte/tree/main)
 
-El sentit de l'olfacte és el sentit encarregat de detectar i processar les olors. S'ha definit l'olfacte com un sentit químic en el qual actuen com estimulants, les partícules aromàtiques o odoríferes despreses dels cossos volàtils que, a través de l'aire inspirat, entren en contacte amb l'epiteli olfactiu situat en la profunditat de les fosses nasals darrere del nas. L'olfacte té importants funcions en els animals; entre elles, avaluar l'estat, el tipus i la qualitat nutritiva dels aliments, detectar perills mediambientals com el fum o el nivell d'humitat, reconèixer un territori demarcat odoríficamente i relacionar l'olor amb el record del que representa. S'ha calculat que l'ésser humà pot detectar més de 10.000 olors diferents.
+El sentit de l'olfacte és el sentit encarregat de detectar i processar les olors. 
+S'ha definit l'olfacte com un sentit químic en el qual actuen com estimulants, les partícules aromàtiques o odoríferes despreses dels cossos volàtils que, a través de l'aire inspirat, entren en contacte amb l'epiteli olfactiu situat en la profunditat de les fosses nasals darrere del nas. L'olfacte té importants funcions en els animals; entre elles, avaluar l'estat, el tipus i la qualitat nutritiva dels aliments, detectar perills mediambientals com el fum o el nivell d'humitat, reconèixer un territori demarcat odoríficamente i relacionar l'olor amb el record del que representa. 
+S'ha calculat que l'ésser humà pot detectar més de 10.000 olors diferents.
 
 ## Anatomia del sentit de l'olfacte
 
@@ -22,7 +24,7 @@ El sentit de l'olfacte és el sentit encarregat de detectar i processar les olor
 -__Nervi olfactiu:__ transmeten informació de l'olfacte per mitjà de la placa cribiforme cap als bulbs i fascicles olfactoris que, al seu torn, transmeten aquesta informació a l'escorça olfactiva en els lòbuls temporals medials.
 
 ## Per què quan alguna cosa té una olor molt forta o ens és familiar podem notar gust?
-És degut a  un actereflexe de la secració gàstrica, és a dir, es prepara per digerir els aliments. Bàsicament el nostre cos es prepara per menjar gràcies a l’olfacte 
+(el pq)
 
 [Per què quan alguna cosa té una olor molt forta o ens és familiar podem notar gust?](http://google.com)
 
