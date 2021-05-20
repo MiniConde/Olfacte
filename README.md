@@ -26,7 +26,7 @@ S'ha calculat que l'ésser humà pot detectar més de 10.000 olors diferents.
 ## Per què quan alguna cosa té una olor molt forta o ens és familiar podem notar gust?
 És degut a  un actereflexe de la secració gàstrica, és a dir, es prepara per digerir els aliments. Bàsicament el nostre cos es prepara per menjar gràcies a l’olfacte 
 
-[Per què quan alguna cosa té una olor molt forta o ens és familiar podem notar gust?](https://github.com/MiniConde/olfacte-sabor
+[Per què quan alguna cosa té una olor molt forta o ens és familiar podem notar gust?](https://github.com/MiniConde/olfacte-sabor)
 
 ## Malelties de l'olfacte, a què són degudes?
 
