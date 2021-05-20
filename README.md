@@ -30,7 +30,7 @@ S'ha calculat que l'ésser humà pot detectar més de 10.000 olors diferents.
 
 ## Malelties de l'olfacte, a què són degudes?
 
-[Malelties de l'olfacte, a què són degudes?](http://google.com)
+[Malelties de l'olfacte, a què són degudes?](https://github.com/MiniConde/enfermetats-olfacte/blob/main/README.md)
 
 __Anosmia:__ És la pèrdua de l'olfacte. De vegades és congènita (present des del moment del naixement) i pot ser degut a un trastorn d'origen genètic.
 
