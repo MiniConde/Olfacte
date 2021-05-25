@@ -9,7 +9,7 @@
 
 [Anatomia del sentit de l'olfacte](https://github.com/MiniConde/pq-serveix-olfacte/tree/main)
 
-##Per què quan alguna cosa té una olor molt forta o ens és familiar podem notar gust?
+## Per què quan alguna cosa té una olor molt forta o ens és familiar podem notar gust?
 
 [Per què quan alguna cosa té una olor molt forta o ens és familiar podem notar gust?](https://github.com/MiniConde/olfacte-sabor)
 
