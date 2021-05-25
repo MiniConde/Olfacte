@@ -25,5 +25,6 @@
 # GRÀCIES PER LA VOSTRA ATENCIÓ :D
 
 
-####### hola
-###### hola
+
+###### Fet per Àlex Gàlvez, Oleguer Teixidò i Damià Sala
+###### Volem donar Gràcies a "Gatchan" () com a colaborador en la part de programació de la pàgina web
