@@ -16,3 +16,13 @@
 ## Malelties de l'olfacte, a què són degudes?
 
 [Malelties de l'olfacte, a què són degudes?](https://github.com/MiniConde/enfermetats-olfacte/blob/main/README.md)
+
+
+
+
+
+
+# GRÀCIES PER LA VOSTRA ATENCIÓ :D
+
+
+### hola
