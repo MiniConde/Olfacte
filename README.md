@@ -27,4 +27,4 @@
 
 
 ###### Fet per Àlex Gàlvez, Oleguer Teixidò i Damià Sala
-###### Volem donar Gràcies a "Gatchan" () com a colaborador en la part de programació de la pàgina web
+###### Volem donar Gràcies a "Gatchan" (Javier) com a colaborador en la part de programació de la pàgina web
